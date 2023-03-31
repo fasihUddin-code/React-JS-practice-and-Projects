@@ -1,0 +1,16 @@
+body{
+    min-height: 100vh;
+    /* background-color: aquamarine; */
+    display: flex;
+    flex-direction: column;
+}
+main{
+    flex: 1 0 auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+label input[type=checkbox]:checked {
+    text-decoration: line-through;
+  }
