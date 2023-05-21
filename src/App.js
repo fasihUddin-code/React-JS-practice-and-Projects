@@ -1,15 +1,17 @@
-import logo from './logo.svg';
 import './App.css';
-import Quiz from './Quiz App/Quiz'
-
+// import Example_3 from './useEffect_Examples/Example_3';
+// import ReactContact from './Contact_Form/Components/ReactContact';
+import Router from './OLX_App_Assignment_6/config/router';
 
 
 function App() {
+  //const [screen, setScreen] = useState("login");
 
-console.log('App Component');
-return (
+ 
+  return (
     <>
-      <Quiz/>
+      <Router/>
+
     </>
   );
 }
