@@ -1,0 +1,100 @@
+
+.container-fluid{
+    background: #F9F6EE	
+
+}
+
+.card{
+    /* box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; */
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;    
+}
+
+.circular-image img{
+  
+    width: 50px;
+    height: 49px;
+}
+
+.card-title{
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: 550!important;
+}
+
+
+.fa {
+   
+    font-size: 12px;
+    width: 17px;
+    text-align: center;
+    text-decoration: none;    
+    border-radius: 50%;
+  }
+  
+  
+  .fa-thumbs-up{
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-heart{
+    background: red;
+    color: white;
+
+  }
+
+  .cardFooter img{
+
+      height: 20px;
+  }
+
+  .cardFooterTextStyle h6{
+    font-size: 14px;
+    color: grey;
+  }
+
+
+  .btn {
+    color: grey;
+    padding: 12px 16px;
+    font-size: 18px!important;
+    cursor: pointer;
+    font-weight:bold!important;
+  }
+  
+  /* Darker background on mouse-over */
+  /* .btn:hover {
+    background-color: RoyalBlue;
+  } */
+
+  .fa-thumbs-up{
+    background: #3B5998;
+    color: white;
+  }
+
+  .fa-share{
+    color: grey;
+
+  }
+.cardFooter-2 .like-btn img:first-child{
+    height: 24px;
+
+}
+
+.cardFooter-2 img{
+    
+
+    height: 35px;
+    width: 35px;
+}
+
+.fa-like-icon:hover{
+
+color: #3B5998;
+
+
+}
+
+
+
+    
